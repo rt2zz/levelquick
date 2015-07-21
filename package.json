@@ -1,0 +1,16 @@
+{
+  "name": "levelquick",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "leveldown": "^1.3.0",
+    "levelup": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rt2zz <zack@root-two.com>",
+  "license": "MIT"
+}
